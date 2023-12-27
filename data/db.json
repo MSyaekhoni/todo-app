@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hit the gym",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Pay bills",
+      "done": false
+    },
+    {
+      "title": "Fishing",
+      "done": true,
+      "id": 3
+    }
+  ]
+}
